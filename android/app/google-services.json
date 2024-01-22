@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "704277339970",
+    "project_id": "college-sports-9c3b7",
+    "storage_bucket": "college-sports-9c3b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704277339970:android:9e66a4c7de166b64ea72db",
+        "android_client_info": {
+          "package_name": "com.example.collegesport"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1O26d4vq5k-ibS-ZLISTxdqiiZ6kSp4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704277339970:android:488070c46c91302aea72db",
+        "android_client_info": {
+          "package_name": "com.example.turfit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1O26d4vq5k-ibS-ZLISTxdqiiZ6kSp4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
